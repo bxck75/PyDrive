@@ -11,7 +11,7 @@ setup(
     url='https://github.com/gsuitedevs/PyDrive',
     license='LICENSE',
     description='Google Drive API made easy.',
-    long_description=open('README.rst').read(),
+    long_description='Read the README.rst',
     install_requires=[
         "google-api-python-client >= 1.2",
         "oauth2client >= 4.0.0",
